@@ -1,1 +1,2 @@
 welcome to GitHub website!
+Here we are going to learn about devops hackthon
